@@ -1,0 +1,8 @@
+E:\ffff\vikinglotto\skandianvlotto\obj\Debug\skandianvlotto.csprojAssemblyReference.cache
+E:\ffff\vikinglotto\skandianvlotto\obj\Debug\skandianvlotto.Form1.resources
+E:\ffff\vikinglotto\skandianvlotto\obj\Debug\skandianvlotto.csproj.GenerateResource.cache
+E:\ffff\vikinglotto\skandianvlotto\bin\Debug\skandianvlotto.exe.config
+E:\ffff\vikinglotto\skandianvlotto\bin\Debug\skandianvlotto.exe
+E:\ffff\vikinglotto\skandianvlotto\bin\Debug\skandianvlotto.pdb
+E:\ffff\vikinglotto\skandianvlotto\obj\Debug\skandianvlotto.exe
+E:\ffff\vikinglotto\skandianvlotto\obj\Debug\skandianvlotto.pdb
